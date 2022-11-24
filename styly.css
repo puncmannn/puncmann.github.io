@@ -50,9 +50,11 @@ p	{
 }
 
 img {
-	height: 250px;
-	border-radius: 0px;
+	/*height: 250px;
+	border-radius: 0px;*/
+	width: 100%;
 }
+	
 
 a 	{
 	text-decoration: none;
